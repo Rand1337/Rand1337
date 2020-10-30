@@ -12,4 +12,4 @@
 
 ## hi moruq whats up, are you okay? Welcome to the places where rand ab shares his projects.
 
-# you can reach me on discord! discord: rând # 1337
+# you can reach me on discord! discord: rând#1337
