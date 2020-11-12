@@ -1,15 +1,8 @@
-### Turkish
+<h1>Welcome to My GitHub! You can contact me from the links below</h1>
+<br>
 
-### Rand
+<p>
+	<a href="https://github.com/xRandRagoN" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Github"><i class="fab fa-github"></i></a>
 
-## sa moruq naber iyi misin? rand abnin projelerini paylaştığı yerlere hoş geldin.
-
-# discorddan bana ulaşabilirsin! discord: rând#1337
-
-### English
-
-### Rand
-
-## hi moruq whats up, are you okay? Welcome to the places where rand ab shares his projects.
-
-# you can reach me on discord! discord: rând#1337
+	<a href="https://discord.com/users/726505568516440208" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Discord"><i class="fab fa-discord"></i></a>
+</p>
