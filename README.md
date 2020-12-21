@@ -4,6 +4,7 @@
   <a href="https://discord.com/users/726505568516440208" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/le2g97g6s2ihqt07hkxpoj8gi" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://instagram.com/randsecur1ty" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/randakahs" target"blank_"><img src="https://img.shields.io/badge/-Twitter-cyan?style=for-the-badge&labelColor=cyan&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/Rand1337" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h1>Programming Languages I Work With;</h1>
