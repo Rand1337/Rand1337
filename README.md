@@ -9,7 +9,6 @@
 </p>
 <h1>the programming languages I am learning / trying to learn;</h1>
 <a href="https://python.org/" target"blank_"><img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F"></a>
-<a href="http://www.lua.org" target"blank_"><img src="https://img.shields.io/badge/-Lua-0000FF?style=for-the-badge&labelColor=BLUE&logo=lua&logoColor=BLUE"></a>
 
 <br>
 <p>
